@@ -1,4 +1,4 @@
-# DeepLearningLanguageIdentification
+# DeepLearning_LanguageIdentification
 
 Course Deep Learning Potsdam University.
 
